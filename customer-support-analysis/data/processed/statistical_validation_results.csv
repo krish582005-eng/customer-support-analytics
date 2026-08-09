@@ -1,0 +1,4 @@
+test,statistic,p_value
+Sentiment vs CSAT,0.5353721847344297,0.0
+Response Time vs Sentiment,-0.14659487090849443,3.119677315322542e-51
+Sentiment across Categories,25.057220356929452,7.108619727346376e-39
